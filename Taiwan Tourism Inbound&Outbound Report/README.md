@@ -14,9 +14,9 @@ This Power BI dashboard analyzes inbound and outbound visitor trends in Taiwan f
 - Coverage:  
   - 2019–2025, monthly breakdown  
 - Notes:  
-    1. A manually created country/region table is used to match inbound and outbound data for Power BI relationships. Note that some country/region names are not fully aligned between the two datasets. For example, Hong Kong and Macao are combined in the Inbound data but listed separately in the Outbound data.  
-    2. Alias tables for visitor purposes and city/county names are created in Power BI for translation.  
-    3. Data cleaning and transformation are handled in Power BI using Power Query.  
+  - A manually created country/region table is used to match inbound and outbound data for Power BI relationships. Note that some country/region names are not fully aligned between the two datasets. For example, Hong Kong and Macao are combined in the Inbound data but listed separately in the Outbound data.  
+  - Alias tables for visitor purposes and city/county names are created in Power BI for translation.  
+  - Data cleaning and transformation are handled in Power BI using Power Query.  
 
 ## Dashboard Features  
 ![Preview Images](preview_images/Preview_Taiwan_Tourism_Inbound&Outbound_Report_01.png)  

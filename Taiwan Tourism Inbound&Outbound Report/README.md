@@ -27,7 +27,8 @@ This Power BI dashboard analyzes inbound and outbound visitor trends in Taiwan f
 - Breakdown of inbound travelers' visiting purposes.  
 - Year over year monthly inbound trends, highlighting pre- and post-COVID shifts.  
 - Line and column chart displaying monthly inbound-outbound gap.  
-- Choropleth map showing average hotel occupancy rates by city/county.  
+- Choropleth map showing average hotel occupancy rates by city/county.
+- Automatic data cleaning and transformation with Power Query.  
 
 ## Demo Video  
 ![Dashboard Demo](demo_video/Demo_Taiwan_Tourism_Inbound&Outbound_Report.gif)  

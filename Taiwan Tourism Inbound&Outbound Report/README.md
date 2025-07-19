@@ -20,7 +20,7 @@ This Power BI dashboard analyzes inbound and outbound visitor trends in Taiwan f
   - Data cleaning and transformation are handled in Power BI using Power Query.  
 
 ## Dashboard Features  
-
+![Preview Images](preview_images/Preview_Taiwan_Tourism_Inbound&Outbound_Report_01.png)  
 - Automatic data cleaning and transformation with Power Query.  
 - Dynamic year and month buttons.  
 - Inbound and outbound volumes compared to previous month, same month last year, and pre-COVID(2019).  
@@ -31,7 +31,7 @@ This Power BI dashboard analyzes inbound and outbound visitor trends in Taiwan f
 - Choropleth map showing average hotel occupancy rates by city/county.  
 
 ## Demo Video  
-
+![Dashboard Demo](demo_video/Demo_Taiwan_Tourism_Inbound&Outbound_Report.gif)  
   
 ## Project Structure  
 Taiwan Tourism Inbound&Outbound Report/  

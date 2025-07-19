@@ -11,7 +11,7 @@ This Power BI dashboard analyzes inbound and outbound visitor trends in Taiwan f
 - Notes:
 
 ## Dashboard Features  
-![Preview Images](preview_images/Preview_Taiwan Tourism Inbound&Outbound Report 01.png)
+![Preview Images](preview_images/Preview_Taiwan_Tourism_Inbound&Outbound_Report_01.png)
 - A
 - B
 - C

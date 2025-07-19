@@ -35,10 +35,7 @@ Taiwan Tourism Inbound&Outbound Report/
 │   └── Preview_Taiwan_Tourism_Inbound&Outbound_Report_03.png  
 ├── .gitignore  
 └── README.md  
-
-## Usage Instructions  
-A  
-
+  
 ## Limitations  
 A  
 

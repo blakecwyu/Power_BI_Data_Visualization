@@ -51,7 +51,8 @@ Taiwan Tourism Inbound&Outbound Report/
 └── README.md  
   
 ## Limitations  
-A  
+- Month buttons could not be inactived for month with no data (future month).
+- 
 
 ## License  
 A  

@@ -6,9 +6,17 @@
 This Power BI dashboard analyzes inbound and outbound visitor trends in Taiwan from 2019 to 2025, featuring dynamic year and month selection buttons. It offers visual insights into monthly seasonality, country/region distributions, visitor purposes, and hotel occupancy rates by city and county. The dashboard also compares current figures to pre-COVID levels and highlights the significant gap between inbound and outbound travel volumes.  
 
 ## Data Source  
-- Source:
-- Coverage:
-- Notes:
+- Source:  
+  - Tourism Statistics Database of The Tourism Administration, M.O.T.C.  
+    1. [Hotel Operation Report by City and County](https://admin.taiwan.net.tw/businessinfo/FilePage?a=9711)  
+    2. [Visitor Arrivals by Gender and by Purpose of Visit](https://stat.taiwan.net.tw/statistics/month/inbound/gender/purpose)  
+    3. [Outbound Departures of Nationals of the Republic of China by Destination](https://stat.taiwan.net.tw/statistics/month/outbound/destination)  
+- Coverage:  
+  - 2019–2025, monthly breakdown  
+- Notes:  
+    1. A manually created country/region table is used to match inbound and outbound data for Power BI relationships. Note that some country/region names are not fully aligned between the two datasets. For example, Hong Kong and Macao are combined in the Inbound data but listed separately in the Outbound data.  
+    2. Alias tables for visitor purposes and city/county names are created in Power BI for translation.  
+    3. Data cleaning and transformation are handled in Power BI using Power Query.  
 
 ## Dashboard Features  
 ![Preview Images](preview_images/Preview_Taiwan_Tourism_Inbound&Outbound_Report_01.png)  

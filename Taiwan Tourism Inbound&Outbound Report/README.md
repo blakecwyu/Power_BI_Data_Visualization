@@ -26,7 +26,7 @@ Taiwan Tourism Inbound&Outbound Report/
 │   └── Inbound/  
 │   └── Outbound/  
 ├── demo_video/  
-│   └── Demo_Taiwan Tourism Inbound&Outbound Report.mp4  
+│   └── Demo_Taiwan Tourism Inbound&Outbound Report.gif  
 ├── pbip/  
 │   └── Taiwan Tourism Inbound&Outbound Report.pbip  
 ├── preview_images/  

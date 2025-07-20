@@ -50,6 +50,13 @@ Taiwan Tourism Inbound&Outbound Report/
 ├── .gitignore  
 └── README.md  
   
+## How to Update Data Folder Path  
+This dashboard uses Power Query to automatically load data from local folders. If you use a different computer or your folders are located elsewhere:
+- Open `Transform Data` in Power BI.
+- Go to `Advanced Editor` and update the folder path in the `Folder.Files("...")` function.
+- Apply changes and refresh the data.
+This ensures the dashboard can correctly load and process new data from your machine.  
+
 ## Limitations  
 - The data is typically released three months after the end of each month, meaning it may not immediately reflect recent events or emerging trends.  
 - Due to Power BI limitations, month buttons cannot be disabled for months with no data (future months). Instead, they are styled to appear unavailable but can still be selected.  

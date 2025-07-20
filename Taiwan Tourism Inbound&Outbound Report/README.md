@@ -58,6 +58,11 @@ Taiwan Tourism Inbound&Outbound Report/
 - Alias tables for country/region names, visitor purposes, and city/county names are manually created for translation. Any changes in source data categories may require updating these tables.
 - The shape map relies on Mandarin location names to match the TopoJSON file, limiting flexibility to switch location labels in visuals.  
 
+## Credits  
+- Data Sources: Tourism statistics from the Tourism Administration, M.O.T.C. Taiwan (政府觀光署)
+- Map Files (TopoJSON): Taiwan TopoJSON files created by [jason2506](jason2506.github.io/Taiwan.TopoJSON/), based on Taiwan’s official geographic boundary data.  
+
 ## License  
-A  
-  
+This dashboard uses publicly released data from the Taiwanese government for non-commercial, academic purposes.  
+All Power BI files, M code transformations, and visuals in this repository are shared under the MIT License.  
+Disclaimer: This project is for personal learning and demonstration purposes only and is not affiliated with any government agency or the creator of the TopoJSON files.  

@@ -50,8 +50,14 @@ Taiwan Tourism Inbound&Outbound Report/
 ├── .gitignore  
 └── README.md  
   
-## 如何更改資料夾路徑  
-
+## 如何調整資料夾路徑  
+此儀錶板使用Power Query自動從資料夾匯入資料，若您使用不同電腦或資料存放於不同路徑，請依以下步驟調整資料夾路徑：  
+- 在Power BI點選`Transform Data`。  
+- 於各資料集上按右鍵，選擇`Advanced Editor`。  
+- 在`Folder.Files("...")`函式中更新資料夾路徑(通常位於程式碼第一行)。  
+- 針對所有資料集(Inbound、Outbound、Inbound_gender、Inbound_purpose、Hotels by CountyCity)重複此步驟。  
+- 套用變更並重新整理資料。
+此設定可確保儀錶板於不同電腦上正確載入與處理新資料。  
 
 ## 限制  
 - 此資料通常在月份結束3個月後才會公布，可能無法顯示即時的事件或趨勢。  

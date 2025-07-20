@@ -51,8 +51,12 @@ Taiwan Tourism Inbound&Outbound Report/
 └── README.md  
   
 ## Limitations  
-- Month buttons could not be inactived for month with no data (future month).
-- 
+- The data is typically released three months after the end of each month, meaning it may not immediately reflect recent events or emerging trends.  
+- Due to Power BI limitations, month buttons cannot be disabled for months with no data (future months). Instead, they are styled to appear unavailable but can still be selected.  
+- Outbound data indicates departure destinations, which may not accurately represent travelers' nationalities or final destinations.  
+- Country/region names in inbound and outbound datasets are not fully aligned.  
+- Alias tables for country/region names, visitor purposes, and city/county names are manually created for translation. Any changes in source data categories may require updating these tables.
+- The shape map relies on Mandarin location names to match the TopoJSON file, limiting flexibility to switch location labels in visuals.  
 
 ## License  
 A  

@@ -47,7 +47,6 @@ Taiwan Tourism Inbound&Outbound Report/
 │   └── Preview_Taiwan_Tourism_Inbound&Outbound_Report_01.png  
 │   └── Preview_Taiwan_Tourism_Inbound&Outbound_Report_02.png  
 │   └── Preview_Taiwan_Tourism_Inbound&Outbound_Report_03.png  
-├── .gitignore  
 └── README.md  
   
 ## How to Update Data Folder Path  

@@ -46,8 +46,7 @@ Taiwan Tourism Inbound&Outbound Report/
 ├── preview_images/  
 │   └── Preview_Taiwan_Tourism_Inbound&Outbound_Report_01.png  
 │   └── Preview_Taiwan_Tourism_Inbound&Outbound_Report_02.png  
-│   └── Preview_Taiwan_Tourism_Inbound&Outbound_Report_03.png  
-├── .gitignore  
+│   └── Preview_Taiwan_Tourism_Inbound&Outbound_Report_03.png   
 └── README.md  
   
 ## 如何調整資料夾路徑  

@@ -50,6 +50,9 @@ Taiwan Tourism Inbound&Outbound Report/
 ├── .gitignore  
 └── README.md  
   
+## 如何更改資料夾路徑  
+
+
 ## 限制  
 - 此資料通常在月份結束3個月後才會公布，可能無法顯示即時的事件或趨勢。  
 - 因Power BI本身的限制，在尚無資料的未來月份，月份選擇按鈕無法停用，僅以條件式底色讓其看似無法選取，但實際上仍可點選。  

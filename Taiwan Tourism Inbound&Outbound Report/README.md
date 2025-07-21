@@ -55,7 +55,7 @@ Taiwan Tourism Inbound&Outbound Report/
 - 於各資料集上按右鍵，選擇`Advanced Editor`。  
 - 在`Folder.Files("...")`函式中更新資料夾路徑(通常位於程式碼第一行)。  
 - 針對所有資料集(Inbound、Outbound、Inbound_gender、Inbound_purpose、Hotels by CountyCity)重複此步驟。  
-- 套用變更並重新整理資料。
+- 套用變更並重新整理資料。  
 此設定可確保儀錶板於不同電腦上正確載入與處理新資料。  
 
 ## 限制  
